@@ -1,5 +1,6 @@
 # Visualisation for neural networks
-Tries to approximate the function `w[0] + w[1]x + w[2]x² + w[3]x³ + ...`
+This project was entirely programed by a student during his internship in 2020.
+It tries to approximate the function `w[0] + w[1]x + w[2]x² + w[3]x³ + ...`
 ## Setup
 ```
 pip install numpy
